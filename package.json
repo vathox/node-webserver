@@ -4,6 +4,10 @@
   "main": "index.js",
   "author": "Adam Dzierzko",
   "license": "MIT",
+  "scripts": {
+    "test": "",
+    "start": "node server.js"
+  },
   "dependencies": {
     "express": "^4.16.3",
     "hbs": "^4.0.1"
