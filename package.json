@@ -5,8 +5,7 @@
   "author": "Adam Dzierzko",
   "license": "MIT",
   "scripts": {
-    "test": "",
-    "start": "node server.js"
+    "test": "",    "start": "node server.js"
   },
   "dependencies": {
     "express": "^4.16.3",
